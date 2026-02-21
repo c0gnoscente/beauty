@@ -1,3 +1,3 @@
 function orderNow(){
-alert("Connect on Instagram: @beautynaturalprouds to place order");
+alert("Connect on Instagram: @gulabbeautyproducts to place order");
 }
